@@ -14,8 +14,8 @@ A simple Pokedex web application built with Next.js, TailwindCSS, and the Pokemo
 
 ## Setup Instructions
 - Clone the repository:  
-`git clone https://github.com/Afisina/pokedex-web-app.git  
-cd pokedex-web-app`  
+`git clone https://github.com/Afisina/pokedex-web-app.git`  
+`cd pokedex-web-app`  
 - Install dependencies:  
 `npm install`
 - Run the development server:  
